@@ -145,7 +145,7 @@ class Graph:
     def Submit(self):
         src, dest = self.selected[0], self.selected[-1]
         self.selected = self.selected[1:-1]
-        with open('TTSP5.csv') as data:
+        with open('data/nodeCrowd.csv') as data:
             reader = csv.DictReader(data, delimiter=',')
             for row in reader:
                 self.printAllPaths(src, dest, row)
