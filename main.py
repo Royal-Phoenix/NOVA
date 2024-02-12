@@ -3,7 +3,7 @@ import tkinter as tk
 
 
 window = tk.Tk()
-window.title("Dijkstra's GUI")
+window.title("N.O.V.A.")
 window.geometry('1366x788')
 canvas = tk.Canvas(window)
 canvas.pack(fill="both", expand=True)
