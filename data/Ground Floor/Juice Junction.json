@@ -1,0 +1,37 @@
+{
+    "Apple Juice": {
+        "cost": 100,
+        "time": 0,
+        "quantity": 50,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Berry Juice": {
+        "cost": 223,
+        "time": 0,
+        "quantity": 23,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Carrot Juice": {
+        "cost": 50,
+        "time": 0,
+        "quantity": 10,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Cherry Juice": {
+        "cost": 180,
+        "time": 0,
+        "quantity": 18,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Grape Juice": {
+        "cost": 85,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Affogato": {
+        "cost": 200,
+        "time": 0,
+        "quantity": 25,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Banana Split": {
+        "cost": 150,
+        "time": 0,
+        "quantity": 15,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Cherry Popsicle": {
+        "cost": 75,
+        "time": 0,
+        "quantity": 100,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Chocolate Ice Cream": {
+        "cost": 100,
+        "time": 0,
+        "quantity": 30,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Coconut Ice Cream": {
+        "cost": 240,
+        "time": 0,
+        "quantity": 25,
+        "offers": 0,
+        "reviews": 10
+    }
+}

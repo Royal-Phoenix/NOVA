@@ -1,0 +1,30 @@
+{
+    "Espresso": {
+        "cost": 100,
+        "time": 0,
+        "quantity": 15,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Hot Chocolate": {
+        "cost": 150,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Iced Banana Latte": {
+        "cost": 75,
+        "time": 0,
+        "quantity": 5,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Raspberry Mocha": {
+        "cost": 300,
+        "time": 0,
+        "quantity": 19,
+        "offers": 0,
+        "reviews": 10
+    }
+}

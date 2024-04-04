@@ -1,0 +1,23 @@
+{
+    "Big Sushi Roll": {
+        "cost": 300,
+        "time": 0,
+        "quantity": 30,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Egg Sushi": {
+        "cost": 250,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Rice Ball": {
+        "cost": 200,
+        "time": 0,
+        "quantity": 35,
+        "offers": 0,
+        "reviews": 10
+    }
+}

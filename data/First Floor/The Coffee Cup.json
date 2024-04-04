@@ -1,0 +1,37 @@
+{
+    "Caffè Latte": {
+        "cost": 260,
+        "time": 0,
+        "quantity": 23,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Caffè Mocha": {
+        "cost": 234,
+        "time": 0,
+        "quantity": 23,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Caramel Latte": {
+        "cost": 321,
+        "time": 0,
+        "quantity": 54,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Hot Chocolate": {
+        "cost": 432,
+        "time": 0,
+        "quantity": 23,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Raspberry Mocha": {
+        "cost": 132,
+        "time": 0,
+        "quantity": 13,
+        "offers": 0,
+        "reviews": 10
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Lemon Tea": {
+        "cost": 21,
+        "time": 0,
+        "quantity": 30,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Milk Tea": {
+        "cost": 30,
+        "time": 0,
+        "quantity": 40,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Mint Tea": {
+        "cost": 10,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Orange Tea": {
+        "cost": 30,
+        "time": 0,
+        "quantity": 10,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Pomegranate Tea": {
+        "cost": 100,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    }
+}

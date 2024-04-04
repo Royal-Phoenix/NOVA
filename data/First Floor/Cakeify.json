@@ -1,0 +1,23 @@
+{
+    "Tropical Cupcake": {
+        "cost": 80,
+        "time": 0,
+        "quantity": 10,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Guava Cupcake": {
+        "cost": 150,
+        "time": 0,
+        "quantity": 15,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Plain Cupcake": {
+        "cost": 60,
+        "time": 0,
+        "quantity": 30,
+        "offers": 0,
+        "reviews": 10
+    }
+}

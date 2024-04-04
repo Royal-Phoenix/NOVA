@@ -1,0 +1,9 @@
+{
+    "Elevator": {
+        "cost": 0,
+        "time": 0,
+        "quantity": 0,
+        "offers": 0,
+        "reviews": 10
+    }
+}

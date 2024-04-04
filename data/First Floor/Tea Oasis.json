@@ -1,0 +1,37 @@
+{
+    "Green Tea": {
+        "cost": 0,
+        "time": 0,
+        "quantity": 0,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Iced Tea": {
+        "cost": 0,
+        "time": 0,
+        "quantity": 0,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Milk Tea": {
+        "cost": 0,
+        "time": 0,
+        "quantity": 0,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Mint Tea": {
+        "cost": 0,
+        "time": 0,
+        "quantity": 0,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Orange Tea": {
+        "cost": 0,
+        "time": 0,
+        "quantity": 0,
+        "offers": 0,
+        "reviews": 10
+    }
+}

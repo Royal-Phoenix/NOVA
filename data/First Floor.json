@@ -1,0 +1,65 @@
+{
+    "The Coffee Cup": {
+        "coords": [0, 0, 1],
+        "neighbours": [["Scoop Haven", 0], ["Pot of Gold", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/The Coffee Cup.json"
+    },
+    "Scoop Haven": {
+        "coords": [0, 1, 1],
+        "neighbours": [["The Coffee Cup", 0], ["Cakeify", 0], ["Elevator", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/Scoop Haven.json"
+    },
+    "Cakeify": {
+        "coords": [0, 2, 1],
+        "neighbours": [["Scoop Haven", 0], ["Caffeine Couture", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/Cakeify.json"
+    },
+    "Pot of Gold": {
+        "coords": [1, 0, 1],
+        "neighbours": [["The Coffee Cup", 0], ["Elevator", 0], ["The Juicery", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/Pot of Gold.json"
+    },
+    "Elevator": {
+        "coords": [1, 1, 1],
+        "neighbours": [["Scoop Haven", 0], ["Pot of Gold", 0], ["Caffeine Couture", 0], ["Sumo Sushi", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/Elevator.json"
+    },
+    "Caffeine Couture": {
+        "coords": [1, 2, 1],
+        "neighbours": [["Cakeify", 0], ["Elevator", 0], ["Tea Oasis", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/Caffeine Couture.json"
+    },
+    "The Juicery": {
+        "coords": [2, 0, 1],
+        "neighbours": [["Pot of Gold", 0], ["Sumo Sushi", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/The Juicery.json"
+    },
+    "Sumo Sushi": {
+        "coords": [2, 1, 1],
+        "neighbours": [["Elevator", 0], ["The Juicery", 0], ["Tea Oasis", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/Sumo Sushi.json"
+    },
+    "Tea Oasis": {
+        "coords": [2, 2, 1],
+        "neighbours": [["Caffeine Couture", 0], ["Sumo Sushi", 0]],
+        "time": 0,
+        "status": true,
+        "products": "/Tea Oasis.json"
+    }
+}

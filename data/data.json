@@ -1,0 +1,47 @@
+{
+    "Caffeine Couture": {
+        "coords": [300, 100],
+        "neighbors": {"Cake Corner":10, "Java Coffee House":4},
+        "time": 25
+    },
+    "Cake Corner": {
+        "coords": [600, 100],
+        "neighbors": {"Caffeine Couture":10, "Donut Delights":6, "Juice Junction":5},
+        "time": 60
+    },
+    "Donut Delights": {
+        "coords": [900, 100],
+        "neighbors": {"Cake Corner":6, "Sumo Sushi":3},
+        "time": 45
+    },
+    "Java Coffee House": {
+        "coords": [300, 350],
+        "neighbors": {"Caffeine Couture":4, "Juice Junction":7, "Tea Haven":8},
+        "time": 90
+    },
+    "Juice Junction": {
+        "coords": [600, 350],
+        "neighbors": {"Cake Corner":5, "Java Coffee House":7, "Sumo Sushi":5, "Tea Leaf Dreams":3},
+        "time": 125
+    },
+    "Sumo Sushi": {
+        "coords": [900, 350],
+        "neighbors": {"Donut Delights":3, "Juice Junction":5, "Scoop Haven":7},
+        "time": 35
+    },
+    "Tea Haven": {
+        "coords": [300, 600],
+        "neighbors": {"Java Coffee House":8, "Tea Leaf Dreams":5},
+        "time": 10
+    },
+    "Tea Leaf Dreams": {
+        "coords": [600, 600],
+        "neighbors": {"Juice Junction":3, "Tea Haven":5, "Scoop Haven":6},
+        "time": 75
+    },
+    "Scoop Haven": {
+        "coords": [900, 600],
+        "neighbors": {"Sumo Sushi":7, "Tea Leaf Dreams":6},
+        "time": 80
+    }
+}

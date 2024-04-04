@@ -1,0 +1,30 @@
+{
+    "Bacon Donut": {
+        "cost": 250,
+        "time": 0,
+        "quantity": 13,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Cream Donut": {
+        "cost": 150,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Crunchy Donut": {
+        "cost": 290,
+        "time": 0,
+        "quantity": 9,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Filled Donut": {
+        "cost": 220,
+        "time": 0,
+        "quantity": 40,
+        "offers": 0,
+        "reviews": 10
+    }
+}

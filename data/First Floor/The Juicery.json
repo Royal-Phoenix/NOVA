@@ -1,0 +1,37 @@
+{
+    "Apple Juice": {
+        "cost": 234,
+        "time": 0,
+        "quantity": 16,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Cherry Juice": {
+        "cost": 133,
+        "time": 0,
+        "quantity": 14,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Guava Juice": {
+        "cost": 145,
+        "time": 0,
+        "quantity": 6,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Mango Juice": {
+        "cost": 142,
+        "time": 0,
+        "quantity": 43,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Orange Juice": {
+        "cost": 142,
+        "time": 0,
+        "quantity": 25,
+        "offers": 0,
+        "reviews": 10
+    }
+}

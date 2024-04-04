@@ -1,0 +1,23 @@
+{
+    "Cookie Cupcake": {
+        "cost": 210,
+        "time": 0,
+        "quantity": 25,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Guava Cupcake": {
+        "cost": 300,
+        "time": 0,
+        "quantity": 10,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Plain Cupcake": {
+        "cost": 100,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Caffe Latte": {
+        "cost": 150,
+        "time": 0,
+        "quantity": 15,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Caffe Mocha": {
+        "cost": 250,
+        "time": 0,
+        "quantity": 5,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Caramel Latte": {
+        "cost": 100,
+        "time": 0,
+        "quantity": 10,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Espresso": {
+        "cost": 75,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    }
+}

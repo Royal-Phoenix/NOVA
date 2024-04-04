@@ -1,0 +1,37 @@
+{
+    "Apple Ginger Tea": {
+        "cost": 110,
+        "time": 0,
+        "quantity": 20,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Green Tea": {
+        "cost": 20,
+        "time": 0,
+        "quantity": 30,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Honey Tea": {
+        "cost": 70,
+        "time": 0,
+        "quantity": 10,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Iced Tea": {
+        "cost": 85,
+        "time": 0,
+        "quantity": 19,
+        "offers": 0,
+        "reviews": 10
+    },
+    "Lemon Tea": {
+        "cost": 25,
+        "time": 0,
+        "quantity": 30,
+        "offers": 0,
+        "reviews": 10
+    }
+}

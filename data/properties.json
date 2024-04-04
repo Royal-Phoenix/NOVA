@@ -1,0 +1,12 @@
+{
+    "Ground Floor": {
+        "neighbours": [["First Floor"]],
+        "status": true,
+        "products": "/Ground Floor.json"
+    },
+    "First Floor": {
+        "neighbours": [["Ground Floor"]],
+        "status": true,
+        "products": "/First Floor.json"
+    }
+}

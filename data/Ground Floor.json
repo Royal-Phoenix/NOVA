@@ -1,0 +1,65 @@
+{
+    "Java Coffee House": {
+        "coords": [0, 0, 0],
+        "neighbours": [["Cakesmith", 2], ["Juice Junction", 6]],
+        "time": 0,
+        "status": true,
+        "products": "/Java Coffee House.json"
+    },
+    "Cakesmith": {
+        "coords": [0, 1, 0],
+        "neighbours": [["Java Coffee House", 2], ["Donut Delights", 5], ["Elevator", 4]],
+        "time": 0,
+        "status": true,
+        "products": "/Cakesmith.json"
+    },
+    "Donut Delights": {
+        "coords": [0, 2, 0],
+        "neighbours": [["Cakesmith", 3], ["Sushi of the Sea", 3]],
+        "time": 0,
+        "status": true,
+        "products": "/Donut Delights.json"
+    },
+    "Juice Junction": {
+        "coords": [1, 0, 0],
+        "neighbours": [["Java Coffee House", 6], ["Elevator", 10], ["Tea Leaf Dreams", 1]],
+        "time": 0,
+        "status": true,
+        "products": "/Juice Junction.json"
+    },
+    "Elevator": {
+        "coords": [1, 1, 0],
+        "neighbours": [["Cakesmith", 4], ["Juice Junction", 10], ["Sushi of the Sea", 4], ["Cake Corner", 2]],
+        "time": 0,
+        "status": true,
+        "products": "/Elevator.json"
+    },
+    "Sushi of the Sea": {
+        "coords": [1, 2, 0],
+        "neighbours": [["Donut Delights", 3], ["Elevator", 7], ["Tea Haven", 4]],
+        "time": 0,
+        "status": true,
+        "products": "/Sushi of the Sea.json"
+    },
+    "Tea Leaf Dreams": {
+        "coords": [2, 0, 0],
+        "neighbours": [["Juice Junction", 1], ["Cake Corner", 9]],
+        "time": 0,
+        "status": true,
+        "products": "/Tea Leaf Dreams.json"
+    },
+    "Cake Corner": {
+        "coords": [2, 1, 0],
+        "neighbours": [["Elevator", 2], ["Tea Leaf Dreams", 9], ["Tea Haven", 8]],
+        "time": 0,
+        "status": true,
+        "products": "/Cake Corner.json"
+    },
+    "Tea Haven": {
+        "coords": [2, 2, 0],
+        "neighbours": [["Sushi of the Sea", 4], ["Cake Corner", 8]],
+        "time": 0,
+        "status": true,
+        "products": "/Tea Haven.json"
+    }
+}
