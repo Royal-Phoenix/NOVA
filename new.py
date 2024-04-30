@@ -4,6 +4,10 @@ import math, time, sys, csv, json
 
 class Graph:
     def __init__(self, canvas, window, data, crowd, func):
+        with open('data/nodeCrowd.csv') as file:
+            reader = csv.DictReader(file, delimiter=',')
+            crowd = [row for row in reader]
+        data = json.load(open('data/data.json'))
         self.data = data
         self.crowd = crowd
         self.func = func
