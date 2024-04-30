@@ -168,8 +168,9 @@ class Graph:
             for row in reader:
                 self.printAllPaths(src, dest, row)
                 for i in range(len(self.totCosts)):
-                    print(self.paths[i], self.distCosts[i], self.timeCosts[i], self.crowdCosts[i], self.totCosts[i])
-                print('------------------------')
+                    pass
+                    # print(self.paths[i], self.distCosts[i], self.timeCosts[i], self.crowdCosts[i], self.totCosts[i])
+                # print('------------------------')
         ind = self.paths.index(min(self.paths))
         print(self.paths[ind], self.distCosts[ind], self.timeCosts[ind], self.crowdCosts[ind], self.totCosts[ind])
         print(len(self.paths))
