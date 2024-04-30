@@ -11,7 +11,7 @@ with open('G:/new NOVA/data/data.json') as file:
 # print(route)
 class Server:
     def __init__(self, name):
-        self.HOST = "192.168.147.105"
+        self.HOST = "192.168.147.105" # Replace with Server IP Address
         self.PORT = 4
         self.server = None
         self.name = name
