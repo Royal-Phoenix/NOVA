@@ -2,10 +2,10 @@ import socket
 import threading
 import csv
 import time
-with open('F:/nodeCrowd.csv') as file:
+with open('data/nodeCrowd.csv') as file:
     reader = csv.DictReader(file, delimiter=',')
     data = [row for row in reader]
-with open('G:/new NOVA/data/data.json') as file:
+with open('data/data.json') as file:
     reader = csv.DictReader(file, delimiter=',')
     route = [row for row in reader]
 # print(route)
